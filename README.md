@@ -5,7 +5,7 @@
 This C library, known as uthread, is designed for creating and managing user-level threads. 
 It was developed as part of a course at the Hebrew University and allows users to create threads, manage their execution, and control their behavior.
 
-## Main Features
+## Main API
 
 ### Initialization
 
