@@ -1,4 +1,4 @@
-# User-Level Thread Management Library (uthread)
+# User-Level Thread Library (uthread)
 
 ## Introduction
 
